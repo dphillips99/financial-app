@@ -1,0 +1,17 @@
+{
+  "name": "finance-api",
+  "version": "1.0.0",
+  "description": "An api to handle all requests for Dylan's financial app project.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Phillips",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.2"
+  }
+}

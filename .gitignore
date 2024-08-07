@@ -1,3 +1,5 @@
 src/finance-api
 
 finance-api/node_modules
+finance-api/dist
+finance-api/.env

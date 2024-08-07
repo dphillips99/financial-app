@@ -7,7 +7,7 @@ router.get('/users', (req: Request, res: Response) => {
 });
 
 router.post('/users', (req: Request, res: Response) => {
-  res.send('Create a new user');
+  res.send('Created a new user');
 });
 
 export default router;
